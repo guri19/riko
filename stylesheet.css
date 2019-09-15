@@ -138,7 +138,6 @@ header {
   .heading h2 {
     font-size: 20px;
   }
-}
 
 @media all and (max-width: 670px) {
   .header-right {
@@ -211,4 +210,18 @@ header {
   float: left;
   transition: all 0.5s;
 }
+  footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
 }
